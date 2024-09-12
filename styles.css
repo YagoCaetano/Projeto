@@ -1,0 +1,24 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Jacques Francois Shadow", serif;
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+}
+
+section {
+    background: rgb(86,0,255);
+    padding-bottom: 90px;
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 3%;
+}
